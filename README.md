@@ -1,1 +1,1 @@
-# Week3_weekend
+# I set up a activity to pull my git information and fill TextViews. On the second activity I did the same thing again but this time filling textviews. I did all of this because I remebered to turn on internet permissions.
